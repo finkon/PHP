@@ -12,7 +12,7 @@ Create an error message if the input of the password does not contain a numeric 
 
 Pseudo Code – 
 
-Build HTML page to include a Title ‘Login Page’
+Build a HTML page to include a Title ‘Login Page’
 Create Form in CSS
 Two boxes in the form 
 First box asking for user name, Placeholder in the entry box ‘Username’
